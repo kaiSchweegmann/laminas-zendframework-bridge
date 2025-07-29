@@ -1,5 +1,5 @@
 {
-    "name": "laminas/laminas-zendframework-bridge",
+    "name": "kaischweegmann/laminas-zendframework-bridge",
     "description": "Alias legacy ZF class names to Laminas Project equivalents.",
     "license": "BSD-3-Clause",
     "keywords": [
